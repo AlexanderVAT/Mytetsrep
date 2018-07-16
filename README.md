@@ -1,6 +1,3 @@
-# Mytetsrep
-# Mytetsrep
-# Mytetsrep
+#!bin/bash
 date
-# Mytetsrep
 # Mytetsrep
